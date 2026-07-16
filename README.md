@@ -1,6 +1,6 @@
 # Weather-lite-App
 
-🌦️ Weather Appp
+🌦️ Weather App
 
 A simple and responsive Weather Application that displays real-time weather information for any city.
 
